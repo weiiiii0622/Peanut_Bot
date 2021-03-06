@@ -92,8 +92,8 @@ def Flex_MainMenu():
                 "type": "button",
                 "action": {
                 "type": "message",
-                "label": "反矩陣生成器",
-                "text": "反矩陣生成器"
+                "label": "二階反矩陣生成器",
+                "text": "二階反矩陣生成器"
                 },
                 "style": "link",
                 "height": "md",
@@ -103,8 +103,8 @@ def Flex_MainMenu():
                 "type": "button",
                 "action": {
                 "type": "message",
-                "label": "理想斜拋模擬器",
-                "text": "理想斜拋模擬器"
+                "label": "理想平拋模擬器",
+                "text": "理想平拋模擬器"
                 },
                 "style": "link",
                 "height": "md",

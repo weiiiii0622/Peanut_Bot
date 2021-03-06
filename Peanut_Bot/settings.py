@@ -26,7 +26,7 @@ SECRET_KEY = 'nnut(n0c6_1v*g1cyspp6elh_&2ptr$m52nrjo=3=6bem_g2f^'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'a3a3fe610b08.ngrok.io',
+    '6986230b8cec.ngrok.io',
     'peanut-bot-project.herokuapp.com',
 ]
 
