@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'a3a3fe610b08.ngrok.io',
-    'https://peanut-bot-project.herokuapp.com/',
+    'peanut-bot-project.herokuapp.com,
 ]
 
 
