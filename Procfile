@@ -1,0 +1,1 @@
+web: gunicorn Peanut_Bot.wsgi
